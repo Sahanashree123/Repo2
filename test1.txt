@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE4F-532E
+
+ Directory of C:\Users\sahana.shree\Desktop\MyProject
+
+14-01-2024  12:25    <DIR>          .
+14-01-2024  12:18    <DIR>          ..
+14-01-2024  12:25                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  948,996,239,360 bytes free
